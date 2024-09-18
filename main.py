@@ -1,3 +1,4 @@
-with open("newFile.txt", "w") as f:
-f.write("Hello, world")
+print ("Hello, word")
+with open("output.txt", "w") as f:
+    f.write("Hello, word")
 
